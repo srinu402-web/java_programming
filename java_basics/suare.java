@@ -1,3 +1,4 @@
+package java_basics;
 public class suare {
     public static void main(String[] args) {
         int a=2;

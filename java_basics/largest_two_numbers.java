@@ -1,3 +1,4 @@
+package java_basics;
 import java.util.Scanner;
 
 public class largest_two_numbers {

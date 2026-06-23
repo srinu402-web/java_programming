@@ -1,3 +1,4 @@
+package java_basics;
 import java.util.Scanner;
 public class area_circle {
     public static void main(String[] args) {

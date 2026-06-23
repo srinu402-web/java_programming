@@ -1,3 +1,4 @@
+package java_basics;
 public class area_tri {
     public static void main(String[] args) {
         int b=2;

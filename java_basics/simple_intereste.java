@@ -1,3 +1,4 @@
+package java_basics;
 public class simple_intereste {
     public static void main(String[] args) {
         int p=20000;

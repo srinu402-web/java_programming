@@ -1,3 +1,4 @@
+package java_basics;
 public class ascll {
     public static void main(String[] args) {
         char name='A';

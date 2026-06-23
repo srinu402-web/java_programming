@@ -1,4 +1,6 @@
+package java_basics;
 public class _swap {
+
     public static void main(String[]args){
         int a=45;
         int b=65;
